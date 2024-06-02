@@ -2,9 +2,10 @@ import "./AnotherApp.css";
 
 function AnotherApp() {
   return (
-    <>
-      <h1>world</h1>
-    </>
+    <div>
+      <h1>World</h1>
+      <a href="/">home</a>
+    </div>
   );
 }
 

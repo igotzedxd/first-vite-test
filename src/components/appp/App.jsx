@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>Hello</h1>
-      <a href="/nested">nested</a>
+      <a href="/nested/">nested</a>
     </div>
   );
 }
